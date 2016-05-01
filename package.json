@@ -1,0 +1,15 @@
+{
+  "name": "alfredbot",
+  "version": "1.0.0",
+  "description": "bot para slack chamado alfred",
+  "main": "lib/alfredbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thrcorrea",
+  "license": "ISC",
+  "dependencies": {
+    "slackbots": "^0.5.1",
+    "sqlite3": "^3.1.3"
+  }
+}
