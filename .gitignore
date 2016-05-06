@@ -26,6 +26,12 @@ build/Release
 # Dependency directory
 node_modules/
 
+config/
+
+data/
+
+*.db
+
 # Optional npm cache directory
 .npm
 
