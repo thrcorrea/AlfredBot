@@ -2,7 +2,7 @@
 
 var AlfredBot = require('../lib/alfredbot');
 
-var token = process.env.BOT_API_KEY;
+var token = 'xoxb-39217127474-itVDugtZuHacpAh96YP3kJio';//process.env.BOT_API_KEY;
 var dbPath = process.env.BOT_DB_PATH;
 var name = process.env.BOT_NAME;
 
